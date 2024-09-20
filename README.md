@@ -55,21 +55,14 @@ I am proficient in configuration management using Ansible which streamline the m
 ###  Infrastructure Security <img align="right" width="100" height="100" src="./icons/security_check.gif">
 
 I have a deep understanding of infrastructure security with the services such as ; 
-- ### AWS Security Services
- - `Amazon GuardDuty,`
- - `AWS WAF,`
- - `Amazon Inspector,`
- - `AWS Key Management Service (KMS),`
- - `AWS Certificate Manager,`
- - `AWS Identity and Access Management (IAM),`
- - `AWS Secrets Manager,`
- - `AWS Firewall Manager,`
- - `AWS Shield.`
+- ### 1. AWS Security Services:
+ Amazon GuardDuty,
+ AWS WAF, AWS WAF, Amazon Inspector, AWS Key Management Service (KMS), AWS Certificate Manager, AWS Identity and Access Management (IAM), AWS Secrets Manager, AWS Firewall Manager, AWS Shield. 
 
 #
 
 ###  Monitoring and Logging <img align="right" width="100" height="100" src="./icons/prometheus.png">
-I have experience implementing monitoring and logging solutions using tools like Prometheus, Grafana, Amazon CloudWatch, AWS X-Ray, and ELK Stack (Elasticsearch, Logstash, and Kibana), ensuring visibility and traceability in applications.
+I have experience implementing monitoring and logging solutions using tools like Prometheus, Grafana, Amazon CloudWatch, AWS X-Ray, and ELK Stack ensuring visibility and traceability in applications.
 #
 
 
