@@ -64,7 +64,7 @@ I have a deep understanding of infrastructure security with the services such as
  - `AWS Identity and Access Management (IAM),`
  - `AWS Secrets Manager,`
  - `AWS Firewall Manager,`
- - `AWS Shield`
+ - `AWS Shield.`
 
 #
 
