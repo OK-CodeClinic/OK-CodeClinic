@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to My GitHub Heaven!</h1>
+<h1 align="center">Dive into My GitHub Galaxy!</h1>
  
 <p align="center">
   <a align="center" href="https://www.linkedin.com/in/kehinde-omokungbe/" alt="Linkedin">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-![image](blob:https://chatgpt.com/e73fd3b3-fe8e-408a-af7f-75fa9de396d9)
+![image](https://chatgpt.com/e73fd3b3-fe8e-408a-af7f-75fa9de396d9)
 
 
 
