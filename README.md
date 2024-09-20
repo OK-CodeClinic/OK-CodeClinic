@@ -56,15 +56,15 @@ I am proficient in configuration management using Ansible which streamline the m
 
 I have a deep understanding of infrastructure security with the services such as ; 
 - ### AWS Security Services
-Amazon GuardDuty,
-AWS WAF,
-Amazon Inspector,
-AWS Key Management Service (KMS),
-AWS Certificate Manager,
-AWS Identity and Access Management (IAM),
-AWS Secrets Manager,
-AWS Firewall Manager,
-AWS Shield
+ - `Amazon GuardDuty,`
+ - `AWS WAF,`
+ - `Amazon Inspector,`
+ - `AWS Key Management Service (KMS),`
+ - `AWS Certificate Manager,`
+ - `AWS Identity and Access Management (IAM),`
+ - `AWS Secrets Manager,`
+ - `AWS Firewall Manager,`
+ - `AWS Shield`
 
 #
 
