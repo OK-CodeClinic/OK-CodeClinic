@@ -14,7 +14,8 @@
   </a>
 </p>
 
-![image](https://chatgpt.com/e73fd3b3-fe8e-408a-af7f-75fa9de396d9)
+![Cover Image](icons/cover.webp)
+
 
 
 
