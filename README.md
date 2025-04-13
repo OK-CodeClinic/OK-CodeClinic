@@ -1,91 +1,76 @@
+<h1 align="center">🚀 Dive into My GitHub Galaxy!</h1>
 
-<h1 align="center">Dive into My GitHub Galaxy!</h1>
- 
 <p align="center">
-  <a align="center" href="https://www.linkedin.com/in/kehinde-omokungbe/" alt="Linkedin">
-    <img
-      src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/devenes" />
+  <a href="https://www.linkedin.com/in/kehinde-omokungbe/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-6610F2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" />
   </a>
 
- 
   <a href="https://medium.com/@KehindeOmokungbe" alt="Medium">
-    <img
-      src="https://img.shields.io/badge/-Medium-6610F2?style=for-the-badge&logo=Medium&logoColor=FFFFFF&link=https://devenes.medium.com/" />
+    <img src="https://img.shields.io/badge/-Medium-6610F2?style=for-the-badge&logo=Medium&logoColor=FFFFFF" />
   </a>
 </p>
 
-![Cover Image](icons/cover.webp)
+<p align="center">
+  <img src="icons/cover.webp" alt="Cover Image" />
+</p>
 
+---
 
+<h1 align="center">Hi there! I'm Kehinde 👋</h1>
+<h3 align="center">An accomplished Cloud & DevOps Engineer passionate about building, securing, and automating scalable cloud-native solutions.</h3>
 
+---
 
-<h1 align="center">I'm Kehinde, an accomplished Cloud & DevOps Engineer with deep expertise in the following areas:</h1>
-
-
-
-
-### Environment Provisioning and Automation <img align="right" width="100" height="100" src="./icons/terraform (1).png">
-
-As an expert in Infrastructure-as-Code (IaC), I bring extensive experience in provisioning and automating environments with tools such as Terraform and CloudFormation.
+### 🔧 Environment Provisioning and Automation <img align="right" width="100" height="100" src="./icons/terraform (1).png">
+I specialize in Infrastructure as Code (IaC), leveraging tools like **Terraform** and **AWS CloudFormation** to provision and manage cloud environments efficiently and consistently.
 #
 
-
-### Application Containerization with Docker <img align="right" width="100" height="100" src="./icons/docker.png">
-I am skilled in containerizing applications using Docker, creating images, and managing them using Docker commands. 
+### 🐳 Application Containerization with Docker <img align="right" width="100" height="100" src="./icons/docker.png">
+I build, optimize, and deploy Docker containers, ensuring portability and performance across development, staging, and production environments.
 #
 
-###  CI/CD  <img align="right" width="100" height="100" src="./icons/jenkins.png">
-
-I possess a comprehensive understanding of continuous integration and continuous delivery (CI/CD) principles, along with expertise in tools such as Jenkins, AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy, AWS CodeCommit, and GitHub Actions.
+### ⚙️ Continuous Integration and Delivery (CI/CD) <img align="right" width="100" height="100" src="./icons/jenkins.png">
+Fluent in CI/CD workflows using tools such as **Jenkins**, **GitHub Actions**, **AWS CodePipeline**, **CodeBuild**, **CodeDeploy**, and **CodeCommit**, enabling rapid and reliable software delivery.
 #
 
-
-###  Container Orchestration with Kubernetes <img align="right" width="100" height="100" src="./icons/kubernetes.png">
-I have extensive experience in designing, deploying, and managing Kubernetes clusters, including AWS EKS, as well as developing scalable, reliable, and secure applications capable of running across diverse platforms.
+### ☸️ Container Orchestration with Kubernetes <img align="right" width="100" height="100" src="./icons/kubernetes.png">
+I have extensive experience with **Kubernetes** and **Amazon EKS**, managing microservices architectures at scale with automated deployments, scaling, and recovery.
 #
 
-
-###  Configuration Management <img align="right" width="100" height="100" src="./icons/ansible.png">
-I am proficient in configuration management using Ansible which streamline the management of system configurations and automate application deployments.
-
+### 🧰 Configuration Management <img align="right" width="100" height="100" src="./icons/ansible.png">
+I automate system configuration and application deployment using **Ansible**, improving efficiency and reducing human error across environments.
 #
 
+### 🔐 Infrastructure Security <img align="right" width="100" height="100" src="./icons/security_check.gif">
+Security is baked into everything I do. I work with services like:
+- **AWS Identity & Access Management (IAM)**
+- **AWS WAF & Shield**
+- **Amazon GuardDuty**
+- **AWS KMS & Certificate Manager**
+- **AWS Secrets Manager**
+- **Amazon Inspector**
+- **AWS Firewall Manager**
 
-
-###  Infrastructure Security <img align="right" width="100" height="100" src="./icons/security_check.gif">
-
-I have a deep understanding of infrastructure security with the services such as ; 
-- ### 1. AWS Security Services:
- Amazon GuardDuty,
- AWS WAF, AWS WAF, Amazon Inspector, AWS Key Management Service (KMS), AWS Certificate Manager, AWS Identity and Access Management (IAM), AWS Secrets Manager, AWS Firewall Manager, AWS Shield. 
-
+All to ensure your infrastructure is secure, resilient, and compliant.
 #
 
-###  Monitoring and Logging <img align="right" width="100" height="100" src="./icons/prometheus.png">
-I have experience implementing monitoring and logging solutions using tools like Prometheus, Grafana, Amazon CloudWatch, AWS X-Ray, and ELK Stack ensuring visibility and traceability in applications.
+### 📈 Monitoring and Logging <img align="right" width="100" height="100" src="./icons/prometheus.png">
+I implement end-to-end observability with tools like **Prometheus**, **Grafana**, **Amazon CloudWatch**, **AWS X-Ray**, and the **ELK Stack** to ensure system health and traceability.
 #
 
+### 🤝 Let's Connect <img align="right" width="100" height="100" src="./icons/linkedln.png">
+I'm always open to collaboration, learning, and exciting new challenges. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kehinde-omokungbe/) or drop by my [Medium blog](https://medium.com/@KehindeOmokungbe) for DevOps insights and tutorials.
 
-###  Let's Connect. <img align="right" width="100" height="100" src="./icons/linkedln.png">
-If you want to discuss any of these topics or work together on a project, please don't hesitate to reach out to me. You can contact and connect with me on  <a href="https://www.linkedin.com/in/kehinde-omokungbe/" target="_blank">My Linkedln Profile</a> .
-
-
-
-
-
-
+---
 
 <!--
 **OK-CodeClinic/OK-CodeClinic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+Ideas to include:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
